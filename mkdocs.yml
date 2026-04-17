@@ -1,0 +1,22 @@
+site_name: 한국 수출입통계
+site_description: 관세청 HS 6자리 코드 기준 월별 수출입 통계 (2024~2026)
+site_url: https://agent-jaden.github.io/korea-trade-stats/
+
+theme:
+  name: material
+  language: ko
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search:
+      lang: ko
+
+docs_dir: docs
