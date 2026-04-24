@@ -6,13 +6,15 @@
 > **생성일**: 2026-04-24  
 > **데이터 출처**: KITA stat.kita.net | 단위: 천 USD / 중량: 톤
 
-![수출입 추이](charts/HS391990(Kapto tape)_전국_chart.svg)
-
 ## 관련 기업·지역
 
 | 지역 | 기업 | 분류 |
 |------|------|------|
 | 전국 | - | 2차전지 |
+
+![수출 추이](charts/HS391990(Kapto tape)_전국_수출_chart.svg)
+
+![수입 추이](charts/HS391990(Kapto tape)_전국_수입_chart.svg)
 
 ## 수출입 종합
 

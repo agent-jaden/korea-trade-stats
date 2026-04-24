@@ -6,13 +6,15 @@
 > **생성일**: 2026-04-24  
 > **데이터 출처**: KITA stat.kita.net | 단위: 천 USD / 중량: 톤
 
-![수출입 추이](charts/HS540419(MONOFILAMENT)_대전대덕구_chart.svg)
-
 ## 관련 기업·지역
 
 | 지역 | 기업 | 분류 |
 |------|------|------|
 | 대전 대덕구 | 비비씨 | 내구소비재 |
+
+![수출 추이](charts/HS540419(MONOFILAMENT)_대전대덕구_수출_chart.svg)
+
+![수입 추이](charts/HS540419(MONOFILAMENT)_대전대덕구_수입_chart.svg)
 
 ## 수출입 종합
 
