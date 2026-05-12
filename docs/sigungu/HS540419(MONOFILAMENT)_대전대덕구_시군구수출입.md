@@ -10,7 +10,7 @@
 
 | 지역 | 기업 | 분류 |
 |------|------|------|
-| 대전 대덕구 | 비비씨 | 내구소비재 |
+| 대전 대덕구 | [비비씨](https://agent-jaden.github.io/company-analysis/%EB%B6%84%EA%B8%B0%EC%8B%A4%EC%A0%81/%EB%B9%84%EB%B9%84%EC%94%A8_%EB%B6%84%EA%B8%B0%EC%8B%A4%EC%A0%81(318410)) | 내구소비재 |
 
 ![수출 추이](charts/HS540419(MONOFILAMENT)_대전대덕구_수출_chart.svg)
 

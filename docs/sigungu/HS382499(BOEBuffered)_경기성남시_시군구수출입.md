@@ -10,7 +10,7 @@
 
 | 지역 | 기업 | 분류 |
 |------|------|------|
-| 경기 성남시 | 솔브레인 | 반도체 |
+| 경기 성남시 | [솔브레인](https://agent-jaden.github.io/company-analysis/%EB%B6%84%EA%B8%B0%EC%8B%A4%EC%A0%81/%EC%86%94%EB%B8%8C%EB%A0%88%EC%9D%B8_%EB%B6%84%EA%B8%B0%EC%8B%A4%EC%A0%81(357780)) | 반도체 |
 
 ![수출 추이](charts/HS382499(BOEBuffered)_경기성남시_수출_chart.svg)
 
