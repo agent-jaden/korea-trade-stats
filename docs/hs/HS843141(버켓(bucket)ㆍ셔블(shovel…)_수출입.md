@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS843141(버켓(bucket)ㆍ셔블(shovel…)_수출_chart.svg)
+![수출 추이](charts/HS843141%28버켓%28bucket%29ㆍ셔블%28shovel…%29_수출_chart.svg)
 
 ## 수출입 종합
 

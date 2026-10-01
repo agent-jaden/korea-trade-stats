@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS660200(지팡이ㆍ시트스틱(seat-stick)…)_수출_chart.svg)
+![수출 추이](charts/HS660200%28지팡이ㆍ시트스틱%28seat-stick%29…%29_수출_chart.svg)
 
 ## 수출입 종합
 

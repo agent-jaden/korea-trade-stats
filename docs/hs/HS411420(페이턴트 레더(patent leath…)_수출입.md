@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS411420(페이턴트%20레더(patent%20leath…)_수출_chart.svg)
+![수출 추이](charts/HS411420%28페이턴트%20레더%28patent%20leath…%29_수출_chart.svg)
 
 ## 수출입 종합
 

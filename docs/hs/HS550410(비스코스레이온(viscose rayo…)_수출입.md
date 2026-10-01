@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS550410(비스코스레이온(viscose%20rayo…)_수출_chart.svg)
+![수출 추이](charts/HS550410%28비스코스레이온%28viscose%20rayo…%29_수출_chart.svg)
 
 ## 수출입 종합
 

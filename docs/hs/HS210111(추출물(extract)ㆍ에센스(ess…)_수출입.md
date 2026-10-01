@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS210111(추출물(extract)ㆍ에센스(ess…)_수출_chart.svg)
+![수출 추이](charts/HS210111%28추출물%28extract%29ㆍ에센스%28ess…%29_수출_chart.svg)
 
 ## 수출입 종합
 

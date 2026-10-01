@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS731210(연선(stranded%20wire)ㆍ로프…)_수출_chart.svg)
+![수출 추이](charts/HS731210%28연선%28stranded%20wire%29ㆍ로프…%29_수출_chart.svg)
 
 ## 수출입 종합
 

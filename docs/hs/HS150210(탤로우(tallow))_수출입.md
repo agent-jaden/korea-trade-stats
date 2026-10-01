@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS150210(탤로우(tallow))_수출_chart.svg)
+![수출 추이](charts/HS150210%28탤로우%28tallow%29%29_수출_chart.svg)
 
 ## 수출입 종합
 

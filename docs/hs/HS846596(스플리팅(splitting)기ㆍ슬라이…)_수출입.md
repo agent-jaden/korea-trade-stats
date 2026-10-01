@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS846596(스플리팅(splitting)기ㆍ슬라이…)_수출_chart.svg)
+![수출 추이](charts/HS846596%28스플리팅%28splitting%29기ㆍ슬라이…%29_수출_chart.svg)
 
 ## 수출입 종합
 

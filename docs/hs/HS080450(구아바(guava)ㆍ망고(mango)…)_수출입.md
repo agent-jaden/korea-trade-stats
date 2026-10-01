@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS080450(구아바(guava)ㆍ망고(mango)…)_수출_chart.svg)
+![수출 추이](charts/HS080450%28구아바%28guava%29ㆍ망고%28mango%29…%29_수출_chart.svg)
 
 ## 수출입 종합
 

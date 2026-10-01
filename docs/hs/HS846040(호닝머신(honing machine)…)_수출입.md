@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS846040(호닝머신(honing%20machine)…)_수출_chart.svg)
+![수출 추이](charts/HS846040%28호닝머신%28honing%20machine%29…%29_수출_chart.svg)
 
 ## 수출입 종합
 

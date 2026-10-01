@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS071410(매니옥(manioc)%5B카사바(cass…)_수출_chart.svg)
+![수출 추이](charts/HS071410%28매니옥%28manioc%29%5B카사바%28cass…%29_수출_chart.svg)
 
 ## 수출입 종합
 

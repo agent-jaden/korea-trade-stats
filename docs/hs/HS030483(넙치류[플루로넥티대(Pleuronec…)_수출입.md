@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS030483(넙치류%5B플루로넥티대(Pleuronec…)_수출_chart.svg)
+![수출 추이](charts/HS030483%28넙치류%5B플루로넥티대%28Pleuronec…%29_수출_chart.svg)
 
 ## 수출입 종합
 

@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS080521(만다린(mandarins)%5B탄제린(t…)_수출_chart.svg)
+![수출 추이](charts/HS080521%28만다린%28mandarins%29%5B탄제린%28t…%29_수출_chart.svg)
 
 ## 수출입 종합
 

@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS030192(뱀장어%5B앙귈라(Anguilla)속%5D)_수출_chart.svg)
+![수출 추이](charts/HS030192%28뱀장어%5B앙귈라%28Anguilla%29속%5D%29_수출_chart.svg)
 
 ## 수출입 종합
 

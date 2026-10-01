@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS848330(베어링하우징(bearing%20housi…)_수출_chart.svg)
+![수출 추이](charts/HS848330%28베어링하우징%28bearing%20housi…%29_수출_chart.svg)
 
 ## 수출입 종합
 

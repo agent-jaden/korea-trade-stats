@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS846595(드릴링머신(drilling%20machi…)_수출_chart.svg)
+![수출 추이](charts/HS846595%28드릴링머신%28drilling%20machi…%29_수출_chart.svg)
 
 ## 수출입 종합
 

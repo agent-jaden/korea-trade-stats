@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS846520(머시닝센터(machining%20cent…)_수출_chart.svg)
+![수출 추이](charts/HS846520%28머시닝센터%28machining%20cent…%29_수출_chart.svg)
 
 ## 수출입 종합
 

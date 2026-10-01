@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS870510(기중기차(crane%20lorry))_수출_chart.svg)
+![수출 추이](charts/HS870510%28기중기차%28crane%20lorry%29%29_수출_chart.svg)
 
 ## 수출입 종합
 

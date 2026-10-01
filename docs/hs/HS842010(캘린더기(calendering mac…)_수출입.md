@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS842010(캘린더기(calendering%20mac…)_수출_chart.svg)
+![수출 추이](charts/HS842010%28캘린더기%28calendering%20mac…%29_수출_chart.svg)
 
 ## 수출입 종합
 

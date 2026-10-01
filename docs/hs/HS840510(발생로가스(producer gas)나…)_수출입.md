@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS840510(발생로가스(producer%20gas)나…)_수출_chart.svg)
+![수출 추이](charts/HS840510%28발생로가스%28producer%20gas%29나…%29_수출_chart.svg)
 
 ## 수출입 종합
 

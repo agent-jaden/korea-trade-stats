@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS848210(볼베어링(ball%20bearing))_수출_chart.svg)
+![수출 추이](charts/HS848210%28볼베어링%28ball%20bearing%29%29_수출_chart.svg)
 
 ## 수출입 종합
 

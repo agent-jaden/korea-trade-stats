@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS051000(용연향(ambergris)ㆍ해리향(c…)_수출_chart.svg)
+![수출 추이](charts/HS051000%28용연향%28ambergris%29ㆍ해리향%28c…%29_수출_chart.svg)
 
 ## 수출입 종합
 

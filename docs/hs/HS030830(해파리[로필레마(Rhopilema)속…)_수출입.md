@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS030830(해파리%5B로필레마(Rhopilema)속…)_수출_chart.svg)
+![수출 추이](charts/HS030830%28해파리%5B로필레마%28Rhopilema%29속…%29_수출_chart.svg)
 
 ## 수출입 종합
 

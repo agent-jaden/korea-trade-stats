@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS070960(고추류%5B캡시컴(Capsicum)속%5D의…)_수출_chart.svg)
+![수출 추이](charts/HS070960%28고추류%5B캡시컴%28Capsicum%29속%5D의…%29_수출_chart.svg)
 
 ## 수출입 종합
 

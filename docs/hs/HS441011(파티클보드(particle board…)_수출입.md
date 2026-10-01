@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS441011(파티클보드(particle%20board…)_수출_chart.svg)
+![수출 추이](charts/HS441011%28파티클보드%28particle%20board…%29_수출_chart.svg)
 
 ## 수출입 종합
 

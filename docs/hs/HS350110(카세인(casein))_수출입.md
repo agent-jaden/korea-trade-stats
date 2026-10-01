@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS350110(카세인(casein))_수출_chart.svg)
+![수출 추이](charts/HS350110%28카세인%28casein%29%29_수출_chart.svg)
 
 ## 수출입 종합
 

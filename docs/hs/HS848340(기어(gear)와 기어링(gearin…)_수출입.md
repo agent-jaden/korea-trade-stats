@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS848340(기어(gear)와%20기어링(gearin…)_수출_chart.svg)
+![수출 추이](charts/HS848340%28기어%28gear%29와%20기어링%28gearin…%29_수출_chart.svg)
 
 ## 수출입 종합
 

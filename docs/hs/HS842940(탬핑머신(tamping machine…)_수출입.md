@@ -2,7 +2,7 @@
 
 > 수집일: 2026-10-01 | 단위: 백만 USD / 중량: kg
 
-![수출 추이](charts/HS842940(탬핑머신(tamping%20machine…)_수출_chart.svg)
+![수출 추이](charts/HS842940%28탬핑머신%28tamping%20machine…%29_수출_chart.svg)
 
 ## 수출입 종합
 
